@@ -8,7 +8,6 @@ The popular game [Connect 4](https://en.wikipedia.org/wiki/Connect_Four) created
 * An AI to play against
 * Save and reload games for later
 
-![Demo2](https://i.imgur.com/yqmUQNz.png)
 ![Demo3](https://i.imgur.com/R4Dtha2.png)
 
 ## Contributors
