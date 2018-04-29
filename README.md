@@ -1,6 +1,6 @@
 # Connect 4
 
-The popular game [Connect 4]() created in Java for a class project.
+The popular game [Connect 4](https://en.wikipedia.org/wiki/Connect_Four) created in Java for a class project.
 
 ![Demo1](https://i.imgur.com/TGZcWkJ.png)
 
